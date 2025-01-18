@@ -4,8 +4,7 @@
 
 **A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone**
 
-  <strong>[中文](./README_zh.md) |
-  English</strong>
+ 
 
 
 
